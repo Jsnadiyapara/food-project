@@ -1,0 +1,14 @@
+.order-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .order-item span {
+    font-size: 16px;
+  }
+  
+  .order-item button {
+    margin-left: 10px;
+  }
+  
